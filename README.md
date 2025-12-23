@@ -31,5 +31,5 @@ This approach ensures correctness while efficiently pruning invalid possibilitie
 
 ---
 
-Author: **Pragnya Yelisetti**  
-GitHub: https://github.com/Pragnyayelisetti
+Author: **Patnala Asritha Satya**  
+GitHub: https://github.com/Satya1296
